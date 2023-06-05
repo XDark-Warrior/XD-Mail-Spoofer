@@ -13,3 +13,5 @@ The authority or owner of XD-Mail-Spoofer will not be held liable for any misuse
 **Thank you for using XD-Mail-Spoofer!**
 
 We appreciate your support and encourage responsible and ethical use of our tool. If you have any questions, feedback, or concerns, please don't hesitate to reach out. Happy spooﬁng!
+
+Disclaimer: This tool is not intended for any malicious purposes. It should only be used for educational or ethical purposes. Any misuse or unlawful activity conducted with this tool is the sole responsibility of the user. The developer and its affiliates will not be held liable for any misuse or illegal actions performed using XD-Mail-Spoofer.
