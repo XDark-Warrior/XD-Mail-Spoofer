@@ -1,40 +1,15 @@
-# XD-Mail-Spoofer
+**Any Type Mail Spoofer Tools...**
 
-## Introduction
-XD-Mail-Spoofer is a mail spoofing tool designed for legitimate purposes only. It should not be used for any malicious activities. By using this tool, you acknowledge that any misuse or harmful actions resulting from its usage are solely your responsibility. The authority or owner of XD-Mail-Spoofer cannot be held accountable in any way for any negative consequences.
+Welcome to the XD-Mail-Spoofer GitHub repository! This tool is designed for legitimate purposes only and should not be used for any malicious activities.
 
-## Disclaimer
-Please note that XD-Mail-Spoofer is intended for ethical use only. It is not endorsed or encouraged to engage in any form of illegal or unethical activities using this tool. Any unauthorized usage is strongly discouraged, and the developers will not be liable for any misuse.
+**Usage Disclaimer**
 
-## Features
-- Mail spoofing capabilities
-- User-friendly interface
-- Configurable options for customization
-- Secure and reliable operation
+By accessing and utilizing this tool, you agree to refrain from engaging in any unlawful or harmful actions. If you choose to use this tool for malicious purposes, you alone bear full responsibility for your actions.
 
-## Installation
-1. Clone the XD-Mail-Spoofer repository to your local machine.
-2. Navigate to the project directory.
-3. Install the required dependencies.
-4. Customize the settings according to your needs.
-5. Run the XD-Mail-Spoofer tool.
+**No Accountability**
 
-## Usage
-1. Launch the XD-Mail-Spoofer application.
-2. Follow the on-screen instructions to configure the email spoofing parameters.
-3. Specify the target email address.
-4. Customize the email content and sender information.
-5. Initiate the email spoofing process.
-6. Monitor the output and status of the spoofing operation.
+The authority or owner of XD-Mail-Spoofer will not be held liable for any misuse or negative consequences resulting from the use of this tool. It is crucial to exercise caution and ethical judgment when using any software or tool.
 
-## Support
-For any issues or queries related to XD-Mail-Spoofer, please feel free to [submit an issue](https://github.com/your-username/XD-Mail-Spoofer/issues). We appreciate your feedback and will respond to your inquiries as soon as possible.
+**Thank you for using XD-Mail-Spoofer!**
 
-## Contribution
-We welcome contributions from the open-source community to improve XD-Mail-Spoofer. If you would like to contribute, please follow the guidelines outlined in [CONTRIBUTING.md](https://github.com/your-username/XD-Mail-Spoofer/blob/main/CONTRIBUTING.md).
-
-## License
-XD-Mail-Spoofer is licensed under the [MIT License](https://github.com/your-username/XD-Mail-Spoofer/blob/main/LICENSE). Please review the license file for more details.
-
-## Disclaimer
-This tool is intended for educational and legitimate purposes only. The developers assume no responsibility for any illegal or unethical usage of XD-Mail-Spoofer. Users are solely responsible for their actions while using this tool.
+We appreciate your support and encourage responsible and ethical use of our tool. If you have any questions, feedback, or concerns, please don't hesitate to reach out. Happy spooﬁng!
