@@ -10,10 +10,10 @@ $mail = new PHPMailer(true);
 try {
     // SMTP Configuration
     $mail->isSMTP();
-    $mail->Host = 'your_smtp_host'; // Replace with your SMTP server address
+    $mail->Host = 'mail.teamxdarkwarrior.x10.mx'; // Replace with your SMTP server address
     $mail->SMTPAuth = true;
-    $mail->Username = 'your_email@example.com'; // Replace with your email address
-    $mail->Password = 'your_email_password'; // Replace with your email password
+    $mail->Username = 'tbudufap@teamxdarkwarrior.x10.mx'; // Replace with your email address
+    $mail->Password = 'dword:00000000'; // Replace with your email password
     $mail->SMTPSecure = 'tls'; // Replace with the encryption type (tls or ssl)
     $mail->Port = 587; // Replace with the appropriate SMTP port
 
